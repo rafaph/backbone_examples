@@ -16,7 +16,7 @@ Where the flag `-ex` defines which example you will run following by name of exa
 
 `static` contains the the compiled javascript by browserify with babelify and assets contains the code.
 
-``shell
+```
 .
 ├── assets
 │   ├── collections
@@ -26,4 +26,4 @@ Where the flag `-ex` defines which example you will run following by name of exa
 ├── index.html
 └── static
     └── js
-`` `
+```
