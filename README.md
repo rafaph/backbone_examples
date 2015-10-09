@@ -7,10 +7,12 @@ The goal of this project is practice and learn backbone, each directory starting
 To run a example you need to install dependencies with `npm install` and run a task named `serve` like:
 
 ```shell
-gulp serve -ex ex1
+gulp serve --ex ex1
 ```
 
-Where the flag `-ex` defines which example you will run following by name of example directory.
+Where the flag `--ex` defines which example you will run following by name of example directory.
+
+The example will running at `localhost:8000`
 
 ## Example structure
 

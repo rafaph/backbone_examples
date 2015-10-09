@@ -32,8 +32,6 @@
     "yargs": "^3.26.0"
   },
   "dependencies": {
-    "backbone": "^1.2.3",
-    "jquery": "^2.1.4",
-    "underscore": "^1.8.3"
+    "jquery": "^2.1.4"
   }
 }
